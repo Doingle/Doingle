@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylan Jurgens</h1>
-<h3 align="center">A first year student studying a Bsc in Computer Science at Varsity Collage. A passionate and adaptable professional adept at Java, Java application development, web design, C#, MySQL, and committed to achieving excellence.</h3>
+<h3 align="center">A second year student studying a Bsc in Computer Science at Varsity Collage. A passionate and adaptable professional adept at Java, Java application development, web design, C#, MySQL, and committed to achieving excellence.</h3>
 
 - 🔭 I’m currently working on an Inventory management app for Woolworths homeware [WooliesInv](-IncludeLink-)
 
