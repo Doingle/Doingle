@@ -11,8 +11,7 @@
 
 - 💬 Ask me about **Java, C#, Network engineering, application development, Inventory management**
 
-- 📫 How to reach me **dylanjurgens10@gmail.com**
-
+- 📫 How to reach me **********************
 - ⚡ Fun fact **I am addicted to caffeine**
 
 <h3 align="left">Connect with me:</h3>
