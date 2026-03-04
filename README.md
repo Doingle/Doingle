@@ -17,7 +17,7 @@
 
 ### ⚡ Fun Facts
 - 📺 Hardware tinkerer with a specific interest in **E-ink (e-paper) display** drivers and SPI interfacing. Interested in PC gaming and custome built gaming PC's
-- 🥾 Avid hiker, frequently exploring the trails across the **Western Cape**.
+- 🥾 Avid hiker, frequently exploring the trails across South Africa.
 
 <hr>
 
