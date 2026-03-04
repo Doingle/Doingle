@@ -11,8 +11,9 @@
 
 ### 📓 Personal Projects
 - **Contract Monthly Claims System | C# ASP.NET MVC, Azure SQL Server, image blobs, message queues and functions:** Streamlining the manual, error prone process of contractor claim submissions.
-- **Freelance Web Development:** Developed high performance professional sites using **Astro** and **Cloudflare Pages** for a local South African businesses.
 - **Event Management Application | C# ASP.NET MVC:** Coordinating logistics, attendee data, and scheduling within a centralized platform. A basic MVC web application designed to handle the CRUD lifecycle of event planning.
+- **WinForms Chatbot | C#:** Created a console based ChatBot "CyberBot", which was migrated to WinForms, to educate users on cyber security. Included a large vocabulary, memory and user sentiment detection.
+- **Retail Storefront | C# MVC, Azure:** Created a highly scalable retail storefront web application utilising serverless functions, Azure image blobs, tables and message queues. 
 
 ### ⚡ Fun Facts
 - 🎲 When not coding, I'm a **D&D enthusiast** currently playing an Arcane Trickster Rogue.
