@@ -1,26 +1,41 @@
 <h1 align="center">Hi 👋, I'm Dylan Jurgens</h1>
-<h3 align="center">A second year student studying a Bsc in Computer Science at Varsity Collage. A passionate and adaptable professional adept at Java, Java application development, web design, C#, MySQL, and committed to achieving excellence.</h3>
+<h3 align="center">A third year student and developer Studying a BSc in Computer Science at the IIE's Emeris. Building scalable solutions with C#, Kotlin, and modern web frameworks. I'm a passionate developer always keen on new projects and driven by the the bridge between complex system design and real world business utility. I focus on writing clean, maintainable code that solves immediate problems.</h3>
 
-- 🔭 I’m currently working on an Inventory management app for Woolworths homeware [WooliesInv](-IncludeLink-)
+- 🌱 I’m currently learning **C# Blazor MVC enterprise system development, Kotlin mobile development.**
+- 🔭 Logistics Management System. Built with C# Blazor MVC. **TechMove Logistics Hub**
+- 🔭 Mobile Budgeting Application. Built with Kotlin. **BudgetBuddy**
 
-- 🌱 I’m currently learning Java, C# and Network engineering. **IIE BSc Computer Science**
+### 💼 Professional Experience & Projects
+- **Inventory Management System (Woolworths SA):** Led the full lifecycle of an interim photo studio system from requirement gathering and planning to deployment and version control. Collaborated with the internal IT team to ensure a seamless transition to enterprise solutions.
+- **Freelance Web Development:** Developed high performance professional sites using **Astro** and **Cloudflare Pages** for a local South African businesses.
+- **Academic Systems:** Engineered a C# MVC Contract Claims system and an Event Management web application, focusing on secure data handling and SQL database integration.
 
-- 📈 Java Project management Kanban board with user interface **CodeKan Project Planner**
+### 📓 Personal Projects
+- **Contract Monthly Claims System | C# ASP.NET MVC, Azure SQL Server, image blobs, message queues and functions:** Streamlining the manual, error prone process of contractor claim submissions.
+- **Freelance Web Development:** Developed high performance professional sites using **Astro** and **Cloudflare Pages** for a local South African businesses.
+- **Event Management Application | C# ASP.NET MVC:** Coordinating logistics, attendee data, and scheduling within a centralized platform. A basic MVC web application designed to handle the CRUD lifecycle of event planning.
 
-- 📋 Building an Event management and booking web app using .NET(MVC) in C# and deploying on Azure. **EventEase Event Managment**
+### ⚡ Fun Facts
+- 🎲 When not coding, I'm a **D&D enthusiast** currently playing an Arcane Trickster Rogue.
+- 📺 Hardware tinkerer with a specific interest in **E-ink (e-paper) display** drivers and SPI interfacing.
+- 🥾 Avid hiker, frequently exploring the trails across the **Western Cape**.
 
-- 💬 Ask me about **Java, C#, Network engineering, application development, Inventory management**
+<hr>
 
-- 📫 How to reach me **********************
-- ⚡ Fun fact **I am addicted to caffeine**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doingle&show_icons=true&locale=en&layout=compact" alt="doingle" /></p>
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doingle&show_icons=true&locale=en" alt="doingle" /></p>
