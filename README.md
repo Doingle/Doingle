@@ -16,8 +16,7 @@
 - **Retail Storefront | C# MVC, Azure:** Created a highly scalable retail storefront web application utilising serverless functions, Azure image blobs, tables and message queues. 
 
 ### ⚡ Fun Facts
-- 🎲 When not coding, I'm a **D&D enthusiast** currently playing an Arcane Trickster Rogue.
-- 📺 Hardware tinkerer with a specific interest in **E-ink (e-paper) display** drivers and SPI interfacing.
+- 📺 Hardware tinkerer with a specific interest in **E-ink (e-paper) display** drivers and SPI interfacing. Interested in PC gaming and custome built gaming PC's
 - 🥾 Avid hiker, frequently exploring the trails across the **Western Cape**.
 
 <hr>
