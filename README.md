@@ -8,7 +8,6 @@
 ### 💼 Professional Experience & Projects
 - **Inventory Management System (Woolworths SA):** Led the full lifecycle of an interim photo studio system from requirement gathering and planning to deployment and version control. Collaborated with the internal IT team to ensure a seamless transition to enterprise solutions.
 - **Freelance Web Development:** Developed high performance professional sites using **Astro** and **Cloudflare Pages** for a local South African businesses.
-- **Academic Systems:** Engineered a C# MVC Contract Claims system and an Event Management web application, focusing on secure data handling and SQL database integration.
 
 ### 📓 Personal Projects
 - **Contract Monthly Claims System | C# ASP.NET MVC, Azure SQL Server, image blobs, message queues and functions:** Streamlining the manual, error prone process of contractor claim submissions.
