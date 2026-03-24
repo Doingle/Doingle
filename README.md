@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C# Blazor MVC enterprise system development, Kotlin mobile development.**
 - 🔭 Logistics Management System. Built with C# Blazor MVC. **TechMove Logistics Hub**
-- 🔭 Mobile Budgeting Application. Built with Kotlin. **BudgetBuddy**
+- 🔭 Mobile Budgeting Application. Built with Kotlin. **Piggy**
 
 ### 💼 Professional Experience & Projects
 - **Inventory Management System (Woolworths SA):** Led the full lifecycle of an interim photo studio system from requirement gathering and planning to deployment and version control. Collaborated with the internal IT team to ensure a seamless transition to enterprise solutions.
