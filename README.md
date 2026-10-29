@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B1F6F,100:8B5CF6&height=120&section=header" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Dylan Jurgens</h1>
+<h1 align="center">Hi , I'm Dylan Jurgens</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Third+year+BSc+Computer+Science+student;C%23+%7C+Kotlin+%7C+JavaScript+%7C+Node.js;Turning+manual+processes+into+clean+software;Currently+shipping+Time+Planner+for+Leading+Edge" alt="Typing intro" />
@@ -19,13 +19,13 @@ I'm driven by the bridge between complex system design and real world business u
 
 ---
 
-### 🔭 What I'm building
+###  What I'm building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### ⏱️ Time Planner
+####  Time Planner
 _Leading Edge · WIL project_
 
 A check in based time tracker built for a real software company. It's a Windows widget that asks developers what they've been working on, plus a web dashboard for reports and team exports. Local AI voice notes (Whisper + Ollama) turn spoken updates into timesheet entries.
@@ -39,7 +39,7 @@ A check in based time tracker built for a real software company. It's a Windows 
 </td>
 <td width="50%" valign="top">
 
-#### 🛍️ HustleHub+
+####  HustleHub+
 _Online marketplace_
 
 A security first marketplace with a Pinterest style masonry feed, so browsing listings feels visual and effortless rather than like scrolling a spreadsheet.
@@ -53,7 +53,7 @@ A security first marketplace with a Pinterest style masonry feed, so browsing li
 <tr>
 <td width="50%" valign="top">
 
-#### 🎮 Backlog Battlers
+####  Backlog Battlers
 _Android app_
 
 Tracks your Steam games and turns the ever growing backlog into something you can actually manage and beat.
@@ -65,7 +65,7 @@ Tracks your Steam games and turns the ever growing backlog into something you ca
 </td>
 <td width="50%" valign="top">
 
-#### 🚚 TechMove Logistics Hub · 🐷 Piggy
+####  TechMove Logistics Hub ·  Piggy
 _Enterprise web · Mobile_
 
 **TechMove** is a logistics management system built with C# Blazor. **Piggy** is a mobile budgeting app built with Kotlin.
@@ -77,12 +77,12 @@ _Enterprise web · Mobile_
 </tr>
 </table>
 
-### 💼 Professional Experience
+###  Professional Experience
 - **Inventory Management System (Woolworths SA):** Led the full lifecycle of an interim photo studio system, from requirement gathering and planning to deployment and version control. Worked with the internal IT team to make the handover to their enterprise solution seamless.
 - **Freelance Web Development:** Building fast, professional sites for local South African businesses with **Astro** and **Cloudflare Pages**. Two that businesses use as their online face today: [taxsolution.co.za](https://www.taxsolution.co.za) and [stratavision.co.za](https://www.stratavision.co.za).
 
 <details>
-<summary><b>📓 More projects</b> (click to expand)</summary>
+<summary><b> More projects</b> (click to expand)</summary>
 <br>
 
 - **Contract Monthly Claims System** | _C# ASP.NET MVC, Azure SQL, Blob Storage, Queues, Functions_: Takes the manual, error prone process of contractor claim submissions and streamlines it.
@@ -92,25 +92,25 @@ _Enterprise web · Mobile_
 
 </details>
 
-### 🌱 Currently learning
+###  Currently learning
 - Enterprise system development with **C# Blazor**
 - Mobile development with **Kotlin**
 - Secure web back ends with **Node.js**
 - Cloud deployment and CI/CD pipelines on **Azure** and **GitHub Actions**
 
-### ⚡ Fun Facts
-- 📺 Hardware tinkerer, with a soft spot for **E ink (e paper) display** drivers and SPI interfacing with raspberry PI's
-- 🎮 PC gamer who enjoys building custom gaming PCs (hence Backlog Battlers 😅)
-- 🥾 Avid hiker, often out exploring trails across South Africa
+###  Fun Facts
+-  Hardware tinkerer, with a soft spot for **E ink (e paper) display** drivers and SPI interfacing with raspberry PI's
+-  PC gamer who enjoys building custom gaming PCs (hence Backlog Battlers 😅)
+-  Avid hiker, often out exploring trails across South Africa
 
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,azure,kotlin,androidstudio,java,js,nodejs,py,astro,cloudflare,mysql,mongodb,git,githubactions,visualstudio&perline=8" alt="Languages and tools" /></a>
 </p>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=doingle&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doingle&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
