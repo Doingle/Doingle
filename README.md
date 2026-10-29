@@ -1,40 +1,122 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B1F6F,100:8B5CF6&height=120&section=header" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm Dylan Jurgens</h1>
-<h3 align="center">A third year student and developer Studying a BSc in Computer Science at the IIE's Emeris. Building scalable solutions with C#, Kotlin, and modern web frameworks. I'm a passionate developer always keen on new projects and driven by the the bridge between complex system design and real world business utility. I focus on writing clean, maintainable code that solves immediate problems.</h3>
 
-- 🌱 I’m currently learning **C# Blazor MVC enterprise system development, Kotlin mobile development.**
-- 🔭 Logistics Management System. Built with C# Blazor MVC. **TechMove Logistics Hub**
-- 🔭 Mobile Budgeting Application. Built with Kotlin. **Piggy**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Third+year+BSc+Computer+Science+student;C%23+%7C+Kotlin+%7C+JavaScript+%7C+Node.js;Turning+manual+processes+into+clean+software;Currently+shipping+Time+Planner+for+Leading+Edge" alt="Typing intro" />
+</p>
 
-### 💼 Professional Experience & Projects
-- **Inventory Management System (Woolworths SA):** Led the full lifecycle of an interim photo studio system from requirement gathering and planning to deployment and version control. Collaborated with the internal IT team to ensure a seamless transition to enterprise solutions.
-- **Freelance Web Development:** Developed high performance professional sites using **Astro** and **Cloudflare Pages** for a local South African businesses.
+<p align="center">
+I'm driven by the bridge between complex system design and real world business use. I like taking a messy, manual process and turning it into clean, maintainable software that solves the problem in front of people, from planning and requirements right through to deployment.
+</p>
 
-### 📓 Personal Projects
-- **Contract Monthly Claims System | C# ASP.NET MVC, Azure SQL Server, image blobs, message queues and functions:** Streamlining the manual, error prone process of contractor claim submissions.
-- **Event Management Application | C# ASP.NET MVC:** Coordinating logistics, attendee data, and scheduling within a centralized platform. A basic MVC web application designed to handle the CRUD lifecycle of event planning.
-- **WinForms Chatbot | C#:** Created a console based ChatBot "CyberBot", which was migrated to WinForms, to educate users on cyber security. Included a large vocabulary, memory and user sentiment detection.
-- **Retail Storefront | C# MVC, Azure:** Created a highly scalable retail storefront web application utilising serverless functions, Azure image blobs, tables and message queues. 
+<p align="center">
+  <img src="https://img.shields.io/badge/Studying-BSc_Computer_Science-4B1F6F?style=flat-square" />
+  <img src="https://img.shields.io/badge/The_IIE's-Emeris-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based_in-South_Africa-007A4D?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=doingle&style=flat-square&color=8B5CF6&label=Profile+views" />
+</p>
+
+---
+
+### 🔭 What I'm building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⏱️ Time Planner
+_Leading Edge · WIL project_
+
+A check in based time tracker built for a real software company. It's a Windows widget that asks developers what they've been working on, plus a web dashboard for reports and team exports. Local AI voice notes (Whisper + Ollama) turn spoken updates into timesheet entries.
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛍️ HustleHub+
+_Online marketplace_
+
+A security first marketplace with a Pinterest style masonry feed, so browsing listings feels visual and effortless rather than like scrolling a spreadsheet.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Security](https://img.shields.io/badge/Security--first-C00000?style=flat-square&logo=letsencrypt&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎮 Backlog Battlers
+_Android app_
+
+Tracks your Steam games and turns the ever growing backlog into something you can actually manage and beat.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚚 TechMove Logistics Hub · 🐷 Piggy
+_Enterprise web · Mobile_
+
+**TechMove** is a logistics management system built with C# Blazor. **Piggy** is a mobile budgeting app built with Kotlin.
+
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### 💼 Professional Experience
+- **Inventory Management System (Woolworths SA):** Led the full lifecycle of an interim photo studio system, from requirement gathering and planning to deployment and version control. Worked with the internal IT team to make the handover to their enterprise solution seamless.
+- **Freelance Web Development:** Building fast, professional sites for local South African businesses with **Astro** and **Cloudflare Pages**. Two that businesses use as their online face today: [taxsolution.co.za](https://www.taxsolution.co.za) and [stratavision.co.za](https://www.stratavision.co.za).
+
+<details>
+<summary><b>📓 More projects</b> (click to expand)</summary>
+<br>
+
+- **Contract Monthly Claims System** | _C# ASP.NET MVC, Azure SQL, Blob Storage, Queues, Functions_: Takes the manual, error prone process of contractor claim submissions and streamlines it.
+- **Retail Storefront** | _C# MVC, Azure_: A scalable retail web app using serverless functions, blob storage, tables and message queues.
+- **Event Management Application** | _C# ASP.NET MVC_: Handles the full CRUD lifecycle of event planning (logistics, attendees and scheduling) in one place.
+- **CyberBot** | _C# WinForms_: A cyber security awareness chatbot that started in the console and moved to WinForms, with a large vocabulary, memory and user sentiment detection.
+
+</details>
+
+### 🌱 Currently learning
+- Enterprise system development with **C# Blazor**
+- Mobile development with **Kotlin**
+- Secure web back ends with **Node.js**
+- Cloud deployment and CI/CD pipelines on **Azure** and **GitHub Actions**
 
 ### ⚡ Fun Facts
-- 📺 Hardware tinkerer with a specific interest in **E-ink (e-paper) display** drivers and SPI interfacing. Interested in PC gaming and custome built gaming PC's
-- 🥾 Avid hiker, frequently exploring the trails across South Africa.
+- 📺 Hardware tinkerer, with a soft spot for **E ink (e paper) display** drivers and SPI interfacing with raspberry PI's
+- 🎮 PC gamer who enjoys building custom gaming PCs (hence Backlog Battlers 😅)
+- 🥾 Avid hiker, often out exploring trails across South Africa
 
-<hr>
+---
 
-<p align="left">
+### 🛠️ Languages and Tools
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,azure,kotlin,androidstudio,java,js,nodejs,py,astro,cloudflare,mysql,mongodb,git,githubactions,visualstudio&perline=8" alt="Languages and tools" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+### 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=doingle&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doingle&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=doingle&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doingle&show_icons=true&locale=en" alt="doingle" /></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:4B1F6F&height=100&section=footer" width="100%"/>
