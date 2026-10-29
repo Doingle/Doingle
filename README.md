@@ -3,7 +3,7 @@
 <h1 align="center">Hi , I'm Dylan Jurgens</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Third+year+BSc+Computer+Science+student;C%23+%7C+Kotlin+%7C+JavaScript+%7C+Node.js;Turning+manual+processes+into+clean+software;Currently+shipping+Time+Planner+for+Leading+Edge" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Third+year+BSc+Computer+Science+student;C%23+%7C+Kotlin+%7C+JavaScript+%7C+Node.js;Turning+manual+processes+into+clean+software" alt="Typing intro" />
 </p>
 
 <p align="center">
